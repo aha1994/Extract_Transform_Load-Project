@@ -1,0 +1,155 @@
+Index,City Name,2018 city rank,2018 City Pop,State[c],2018 Metro Rank,Metro Name,2018 Metro Pop,Density score
+0,New York,1,8398748,New York,1,New York,19979477,0.420368761
+1,Los Angeles,2,3990456,California,2,Los Angeles,13291486,0.300226476
+2,Chicago,3,2705994,Illinois,3,Chicago,9498716,0.284879977
+3,Houston,4,2325502,Texas,5,Houston,6997384,0.332338771
+4,Phoenix,5,1660272,Arizona,11,Phoenix,4857962,0.341763069
+5,Philadelphia,6,1584138,Pennsylvania,8,Philadelphia,6096372,0.259849301
+6,San Antonio,7,1532233,Texas,24,San Antonio,2518036,0.608503214
+7,San Diego,8,1425976,California,17,San Diego,3343364,0.426509348
+8,Dallas,9,1345047,Texas,4,Dallas,7539711,0.178395034
+9,San Jose,10,1030119,California,35,San Jose,1999107,0.515289577
+10,Austin,11,964254,Texas,30,Austin,2168316,0.444701787
+11,Jacksonville,12,903889,Florida,40,Jacksonville,1534701,0.588967493
+12,Columbus,14,892533,Ohio,32,Columbus,2106541,0.423696002
+13,San Francisco,15,883305,California,12,San Francisco,4729484,0.186765618
+14,Charlotte,16,872498,North Carolina,23,Charlotte,2569213,0.339597379
+15,Indianapolis,17,867125,Indiana,34,Indianapolis,2048703,0.423255591
+16,Seattle,18,744955,Washington,15,Seattle,3939363,0.189105447
+17,Denver,19,716492,Colorado,19,Denver,2932415,0.24433513
+18,Washington,20,702455,District of Columbia,6,Washington,6249950,0.112393699
+19,Boston,21,694583,Massachusetts,10,Boston,4875390,0.142467167
+20,El Paso,22,682669,Texas,68,El Paso,845553,0.807363938
+21,Detroit,23,672662,Michigan,14,Detroit,4326442,0.155476948
+22,Nashville,24,669053,Tennessee,36,Nashville,1930961,0.34648706
+23,Portland,25,653115,Oregon,25,Portland,2478810,0.26347925
+24,Memphis,26,650618,Tennessee,43,Memphis,1350620,0.481718026
+25,Oklahoma City,27,649021,Oklahoma,41,Oklahoma City,1396445,0.464766604
+26,Las Vegas,28,644644,Nevada,28,Las Vegas,2231647,0.288864682
+27,Louisville,29,620118,Kentucky,45,Louisville,1297310,0.478002945
+28,Baltimore,30,602495,Maryland,21,Baltimore,2802789,0.214962668
+29,Milwaukee,31,592025,Wisconsin,39,Milwaukee,1576113,0.375623448
+30,Albuquerque,32,560218,New Mexico,60,Albuquerque,915927,0.611640447
+31,Tucson,33,545975,Arizona,53,Tucson,1039073,0.525444314
+32,Fresno,34,530093,California,54,Fresno,994400,0.533078238
+33,Sacramento,36,508529,California,26,Sacramento,2345210,0.216837298
+34,Atlanta,37,498044,Georgia,9,Atlanta,5949951,0.083705563
+35,Kansas City,38,491918,Missouri,31,Kansas City,2143651,0.22947672
+36,Colorado Springs,39,472688,Colorado,79,Colorado Springs,738939,0.639684737
+37,Miami,40,470914,Florida,7,Miami,6198782,0.075968795
+38,Raleigh,41,469298,North Carolina,42,Raleigh,1362540,0.344428787
+39,Omaha,42,468262,Nebraska,59,Omaha,942198,0.496988956
+40,Virginia Beach,44,450189,Virginia,37,Virginia Beach,1728733,0.260415576
+41,Minneapolis,46,425403,Minnesota,16,Minneapolis,3629190,0.117217065
+42,Tulsa,47,400669,Oklahoma,55,Tulsa,993797,0.403169863
+43,Tampa,49,392890,Florida,18,Tampa,3142663,0.125018177
+44,New Orleans,50,391006,Louisiana,46,New Orleans,1270399,0.307782043
+45,Wichita,51,389255,Kansas,90,Wichita,644888,0.603600935
+46,Cleveland,52,383793,Ohio,33,Cleveland,2057009,0.186578182
+47,Bakersfield,53,383579,California,62,Bakersfield,896764,0.42773684
+48,Riverside,58,330063,California,13,Riverside,4622361,0.071405717
+49,Corpus Christi,59,326554,Texas,119,Corpus Christi,452950,0.720949332
+50,Lexington,60,323780,Kentucky,107,Lexington,516697,0.626634178
+51,Stockton,61,311178,California,77,Stockton,752660,0.413437674
+52,St. Louis,64,302838,Missouri,20,St. Louis,2805465,0.107945742
+53,Cincinnati,65,302605,Ohio,29,Cincinnati,2190209,0.138162614
+54,Pittsburgh,66,301048,Pennsylvania,27,Pittsburgh,2324743,0.129497325
+55,Greensboro,67,294722,North Carolina,75,Greensboro,767711,0.383897065
+56,Anchorage,68,291538,Alaska,135,Anchorage,399148,0.730400754
+57,Lincoln,70,287401,Nebraska,155,Lincoln,334590,0.858964703
+58,Orlando,71,285713,Florida,22,Orlando,2572692,0.111056046
+59,Toledo,74,274975,Ohio,94,Toledo,602871,0.456109184
+60,Durham,75,274291,North Carolina,97,Durham,575412,0.47668627
+61,Fort Wayne,77,267633,Indiana,124,Fort Wayne,437631,0.611549456
+62,Laredo,80,261639,Texas,175,Laredo,275910,0.948276612
+63,Madison,81,258054,Wisconsin,86,Madison,660422,0.390741072
+64,Buffalo,83,256304,New York,50,Buffalo,1130152,0.226787193
+65,Lubbock,84,255885,Texas,159,Lubbock,319068,0.801976381
+66,Reno,86,250998,Nevada,114,Reno,469764,0.534306588
+67,Richmond,98,228783,Virginia,44,Richmond,1306172,0.175155339
+68,Baton Rouge,99,221599,Louisiana,71,Baton Rouge,831310,0.266566022
+69,Spokane,100,219190,Washington,99,Spokane,573493,0.382201701
+70,Des Moines,101,216853,Iowa,88,Des Moines,655409,0.33086668
+71,Modesto,104,215030,California,102,Modesto,549815,0.391095187
+72,Birmingham,107,209880,Alabama,49,Birmingham,1151801,0.182218977
+73,Oxnard,108,209877,California,67,Oxnard,850967,0.246633536
+74,Fayetteville,109,209468,North Carolina,103,Fayetteville,549128,0.38145569
+75,Rochester,111,206284,New York,51,Rochester,1071082,0.192594031
+76,Salt Lake City,114,200591,Utah,47,Salt Lake City,1222540,0.164077249
+77,Grand Rapids,115,200217,Michigan,52,Grand Rapids,1069405,0.187222801
+78,Amarillo,116,199924,Texas,184,Amarillo,265947,0.751743768
+79,Montgomery,119,198218,Alabama,144,Montgomery,373225,0.531095184
+80,Akron,120,198006,Ohio,82,Akron,704845,0.280921337
+81,Little Rock,121,197881,Arkansas,78,Little Rock,741104,0.267008409
+82,Huntsville,122,197318,Alabama,117,Huntsville,462693,0.426455555
+83,Augusta,123,196939,Georgia,93,Augusta,604167,0.32596782
+84,Port St. Lucie,124,195248,Florida,111,Port St. Lucie,482040,0.405045224
+85,Tallahassee,127,193551,Florida,140,Tallahassee,385145,0.502540602
+86,Mobile,131,189572,Alabama,131,Mobile,413757,0.458172309
+87,Cape Coral,132,189343,Florida,76,Cape Coral,754610,0.250915042
+88,Shreveport,133,188987,Louisiana,125,Shreveport,436341,0.433117676
+89,Knoxville,135,187500,Tennessee,63,Knoxville,883309,0.212269998
+90,Worcester,136,185877,Massachusetts,57,Worcester,947866,0.196100504
+91,Brownsville,137,183392,Texas,128,Brownsville,423908,0.432622173
+92,Sioux Falls,140,181883,South Dakota,185,Sioux Falls,265653,0.684663828
+93,Chattanooga,142,180557,Tennessee,100,Chattanooga,560793,0.321967286
+94,Providence,143,179335,Rhode Island,38,Providence,1621337,0.11060933
+95,Santa Rosa,146,177586,California,108,Santa Rosa,499942,0.355213205
+96,Salem,148,173442,Oregon,127,Salem,432102,0.401391338
+97,Peoria,152,172259,Arizona,148,Peoria,368373,0.467621134
+98,Eugene,153,171245,Oregon,142,Eugene,379611,0.451106527
+99,Springfield,156,168122,Missouri,92,Springfield,631761,0.266116459
+100,Fort Collins,157,167830,Colorado,151,Fort Collins,350518,0.478805653
+101,Jackson,158,164422,Mississippi,96,Jackson,580166,0.283405094
+102,Alexandria,159,160530,Virginia,270,Alexandria,153044,1.048914038
+103,Lancaster,161,159053,California,104,Lancaster,543557,0.292615126
+104,Clarksville,163,156794,Tennessee,167,Clarksville,292264,0.536480716
+105,Salinas,165,156259,California,126,Salinas,435594,0.358726245
+106,Macon,170,153095,Georgia,200,Macon,229737,0.66639244
+107,Killeen,174,149103,Texas,120,Killeen,451679,0.330108329
+108,Rockford,178,146526,Illinois,154,Rockford,337658,0.433947959
+109,Savannah,179,145862,Georgia,138,Savannah,389494,0.374491006
+110,Bridgeport,182,144900,Connecticut,58,Bridgeport,943823,0.153524549
+111,McAllen,183,143433,Texas,65,McAllen,865939,0.165638688
+112,Syracuse,185,142749,New York,89,Syracuse,650502,0.219444368
+113,Midland,186,142344,Texas,239,Midland,178337,0.798174243
+114,Dayton,190,140640,Ohio,73,Dayton,806548,0.174372759
+115,Waco,197,138183,Texas,180,Waco,271942,0.508134087
+116,Charleston,201,136208,South Carolina,74,Charleston,787643,0.172931138
+117,Gainesville,204,133857,Florida,169,Gainesville,288212,0.464439371
+118,Visalia,205,133800,California,116,Visalia,465861,0.287210133
+119,Columbia,207,133451,South Carolina,70,Columbia,832666,0.160269544
+120,Cedar Rapids,208,133174,Iowa,178,Cedar Rapids,272295,0.489079858
+121,New Haven,210,130418,Connecticut,66,New Haven,857620,0.152069681
+122,Lafayette,218,126143,Louisiana,110,Lafayette,489364,0.257769268
+123,Athens,219,125964,Georgia,212,Athens,211306,0.596121265
+124,Topeka,220,125904,Kansas,196,Topeka,232594,0.541303731
+125,Fargo,222,124844,North Dakota,190,Fargo,245471,0.508589609
+126,Abilene,225,122999,Texas,247,Abilene,171451,0.717400307
+127,Wilmington,226,122607,North Carolina,166,Wilmington,294436,0.416413074
+128,Hartford,227,122587,Connecticut,48,Hartford,1206300,0.101622316
+129,Vallejo,230,121913,California,122,Vallejo,446610,0.272974183
+130,Ann Arbor,231,121890,Michigan,145,Ann Arbor,370963,0.328577244
+131,Allentown,233,121433,Pennsylvania,69,Allentown,842913,0.144063504
+132,Odessa,235,120568,Texas,261,Odessa,162124,0.743677679
+133,Beaumont,239,118428,Texas,133,Beaumont,409526,0.289183104
+134,Lansing,240,118427,Michigan,112,Lansing,481893,0.245753725
+135,Evansville,241,117963,Indiana,160,Evansville,314672,0.374876061
+136,Provo,245,116702,Utah,91,Provo,633768,0.184139938
+137,College Station,247,116218,Texas,188,College Station,262431,0.442851645
+138,Palm Bay,254,114194,Florida,95,Palm Bay,596849,0.191328125
+139,Manchester,259,112525,New Hampshire,130,Manchester,415247,0.270983294
+140,Pueblo,264,111750,Colorado,255,Pueblo,167529,0.66704869
+141,Lakeland,273,110516,Florida,81,Lakeland,708009,0.156094061
+142,Billings,276,109550,Montana,246,Billings,171677,0.638116929
+143,Santa Maria,283,107408,California,123,Santa Maria,446527,0.240540886
+144,Boulder,284,107353,Colorado,156,Boulder,326078,0.329224909
+145,Greeley,285,107348,Colorado,161,Greeley,314305,0.34154086
+146,Tyler,292,105729,Texas,199,Tyler,230221,0.459250025
+147,Green Bay,295,104879,Wisconsin,158,Green Bay,321591,0.32612542
+148,Wichita Falls,296,104576,Texas,275,Wichita Falls,151306,0.691155671
+149,Las Cruces,303,102926,New Mexico,209,Las Cruces,217522,0.473175127
+150,Davenport,305,102085,Iowa,141,Davenport,381451,0.26762284
+151,South Bend,306,101860,Indiana,157,South Bend,322424,0.31591941
+152,Tuscaloosa,308,101113,Alabama,191,Tuscaloosa,243575,0.415120599
+153,San Angelo,312,100215,Texas,326,San Angelo,119711,0.837141115
